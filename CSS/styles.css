@@ -1,0 +1,94 @@
+#header{
+  background-color:#000000;
+  font-size:1.25rem;
+  font-family: "Nerko One";
+}
+
+#giberish{
+  background-color:#000000;
+  font-size:1.25rem;
+  font-family: "Nerko One";
+}
+
+#costs{
+padding-left:200px;
+background-color:#000000;
+  font-family:"Nerko One";
+}
+
+#reviews{
+  text-align:center;
+  background-color:#000000;
+  color:#FFFFFF;
+  font-family:"Nerko One";
+}
+
+#footer{
+  font-size:1.5rem;
+  background-color:#000000;
+  color:#FFFFFF;
+  font-family:"Nerko One";
+}
+
+.nav-item{
+  padding:0 18px;
+}
+
+.container-fluid{
+padding: 3% 10%;
+}
+
+.nav-link{
+  font-size:1.5rem;
+  color:#FFFFFF;
+}
+
+.navbar-brand{
+  font-size:3rem;
+  font-family: "Nerko One";
+  color:#FFFFFF;
+}
+
+.navbar-brand:hover{
+  color:#808080;
+}
+
+.nav-link:hover{
+  color:#808080;
+}
+
+.pic-size{
+  width:1265px;
+  height:500px;
+}
+
+.btn{
+  color:#FFFFFF
+}
+
+.text-color{
+  color:#FFFFFF
+}
+
+.emoji-size{
+  font-size:5rem;
+}
+
+.center{
+  text-align:center;
+}
+
+.images{
+  border-radius:50%
+}
+
+.carouselImage{
+height:150px;
+width:150px;
+border-radius:50%;
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+color:white !important;
+}
